@@ -1,5 +1,5 @@
 # About
-PayCart provides a comprehensive solution and boasts robust cart and checkout features, ensuring effortless purchase management for a streamlined online shopping experience.
+Shopswift provides a comprehensive solution and boasts robust cart and checkout features, ensuring effortless purchase management for a streamlined online shopping experience.
 
 ## Features
 - Login/Signup
